@@ -1,5 +1,5 @@
 # mining tracker final public repo
-Mining tracker allows users to keep track on their rigs. Some of it's features:
+Mining tracker allows users to keep track of their rigs. Some of its features:
 
 1) Enable cloud notifications, get notified when a block is found (especially useful for solo miners and rig renters)
 2) allow users to check if their workers are offline
