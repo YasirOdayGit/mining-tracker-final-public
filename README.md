@@ -15,9 +15,13 @@ This app does not refresh when minimized and does not offload the rewards search
 # Video demostrations
 #
 Checking added wallets and getting notified when miner got rewarded
+
 https://user-images.githubusercontent.com/95036084/152801301-80e246f7-5881-40bf-91f5-51424215cba6.mp4
+
 #
 Enabling notifications for different wallets
+
 https://user-images.githubusercontent.com/95036084/152801367-daa1481d-2e0f-4204-8e8c-b07dbe0ba817.mp4
+
 #
 
