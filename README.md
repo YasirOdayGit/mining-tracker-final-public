@@ -14,9 +14,10 @@ Mining tracker allows users to keep track of their rigs. Some of its features:
 This app does not refresh when minimized and does not offload the rewards search on your phone which may lead to reduced battery life. The backend servers will notify you once a block is found.
 # Video demostrations
 #
-Checking added wallets and getting notified when miner got rewarded
+Users can add wallets, enable notifications, and check actual mining profits in usd, updated in real-time.
 
-https://user-images.githubusercontent.com/95036084/152801301-80e246f7-5881-40bf-91f5-51424215cba6.mp4
+
+https://user-images.githubusercontent.com/95036084/153714756-db312899-0dab-41ae-bd8b-c71eb716304e.mp4
 
 #
 Enabling notifications for different wallets
